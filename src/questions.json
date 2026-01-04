@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "question": "La ciencia explica los fenómenos naturales:",
+    "options": [
+      "a) en todo el universo",
+      "b) en unas condiciones muy concretas que pueden no darse en exoplanetas extrasolares",
+      "c) sólo para cuestiones relacionadas con los seres vivos"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 2,
+    "question": "Para desarrollar el método científico el proceso se estructura y ordena en:",
+    "options": [
+      "a) Observación, formulación de hipótesis, experimentación, análisis de los resultados, confirmación de la hipótesis y publicación de resultados",
+      "b) Formulación de la hipótesis, estudio de la pauta, confirmación de la hipótesis y propuesta de la nueva teoría",
+      "c) Estudio del medio natural, experimentación, análisis de los resultados y confirmación de la hipótesis"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 3,
+    "question": "La nueva línea pedagógica de las Ciencias va en la línea de la enseñanza de diferentes áreas de conocimiento relacionadas que son:",
+    "options": [
+      "a) Química, Física, Matemáticas y Biología",
+      "b) Ciencias, Tecnología, Ingeniería y Matemáticas",
+      "c) Ciencia, Matemáticas, Biología, Química"
+    ],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 4,
+    "question": "Señala cuál de las siguientes respuestas puede ser una hipótesis científica:",
+    "options": [
+      "a) La obtención de recursos es indispensable para la supervivencia de los organismos",
+      "b) Debemos considerar indispensable la incapacidad para obtener recursos como factor de supervivencia",
+      "c) ¿Los organismos requieren de la obtención de recursos para sobrevivir?"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 5,
+    "question": "La Ciencia es:",
+    "options": [
+      "a) la única disciplina que busca la verdad",
+      "b) la única disciplina que encuentra la verdad",
+      "c) una disciplina que busca la verdad de una forma objetiva"
+    ],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 6,
+    "question": "La masa en términos científicos es:",
+    "options": [
+      "a) El peso, pero en kilogramos",
+      "b) La fuerza con la que es atraído un cuerpo hacia otro",
+      "c) La cantidad de materia que tiene un cuerpo, es constante y no varía"
+    ],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 7,
+    "question": "El componente que se encuentra en menor proporción en una mezcla se denomina:",
+    "options": [
+      "a) Disolvente",
+      "b) Soluto",
+      "c) Sal"
+    ],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 8,
+    "question": "Para que la materia cambie de estado hacia uno en el que las partículas están más libres unas de otras, necesitamos:",
+    "options": [
+      "a) Enfriar (retirar energía)",
+      "b) Ambas son ciertas",
+      "c) Calentar (aportar energía)"
+    ],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 9,
+    "question": "La unidad de temperatura del Sistema Internacional de Medidas es:",
+    "options": [
+      "a) El grado Celsius",
+      "b) El grado Kelvin",
+      "c) El grado Fahrenheit"
+    ],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 10,
+    "question": "La energía mecánica es:",
+    "options": [
+      "a) La energía cinética menos la energía potencial",
+      "b) La energía más poderosa del universo",
+      "c) La energía de un cuerpo por el hecho de estar en un sistema"
+    ],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 11,
+    "question": "En el Universo la materia se puede encontrar en los siguientes estados físicos:",
+    "options": [
+      "a) Sólido, líquido, gaseoso y plasma",
+      "b) Sólido, líquido y plasma",
+      "c) Sólido, líquido y gaseoso"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 12,
+    "question": "Temperatura de un cuerpo es:",
+    "options": [
+      "a) Valor medio de la energía potencial de esas partículas",
+      "b) La transferencia de calor debida a una diferencia de alturas",
+      "c) Valor medio de la energía cinética de esas partículas"
+    ],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 13,
+    "question": "Trabajo es:",
+    "options": [
+      "a) La transferencia de energía entre dos cuerpos realizada mediante un desplazamiento",
+      "b) La transferencia de energía entre dos o más cuerpos",
+      "c) La transferencia de energía entre dos cuerpos realice o no desplazamiento"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 14,
+    "question": "El cambio de estado de sólido a gaseoso se denomina:",
+    "options": [
+      "a) Fusión",
+      "b) Sublimación",
+      "c) Vaporización"
+    ],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 15,
+    "question": "Una disolución es:",
+    "options": [
+      "a) Una mezcla homogénea",
+      "b) La reacción química entre el disolvente y el soluto",
+      "c) Una mezcla de líquidos"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 16,
+    "question": "Las mareas vivas tienen su origen en:",
+    "options": [
+      "a) La fuerza de la gravedad del Sol y la Luna",
+      "b) La fuerza de la gravedad del Sol",
+      "c) La fuerza de la gravedad de la Luna"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 17,
+    "question": "La estructura interna de la Tierra es:",
+    "options": [
+      "a) Atmósfera, hidrosfera y litosfera",
+      "b) Corteza, manto y núcleo",
+      "c) Atmósfera, litosfera y núcleo"
+    ],
+    "correctIndex": 1,
+    "weight": 1
+  },
+  {
+    "id": 18,
+    "question": "Los puntos de creación de corteza se denominan:",
+    "options": [
+      "a) Dorsales oceánicas",
+      "b) Zonas de subducción",
+      "c) Fallas"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 19,
+    "question": "El movimiento de la Tierra responsable del día y la noche es:",
+    "options": [
+      "a) Rotación",
+      "b) Precesión",
+      "c) Traslación"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 20,
+    "question": "Los puntos de destrucción de la corteza se denominan:",
+    "options": [
+      "a) Zonas de subducción",
+      "b) Dorsales oceánicas",
+      "c) Fallas"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 21,
+    "question": "El campo magnético terrestre se debe a:",
+    "options": [
+      "a) La presencia de magnetita en los polos del planeta",
+      "b) La presencia de magnetita en el núcleo interno del planeta",
+      "c) La rotación interna del núcleo de la Tierra sobre el núcleo externo y el manto"
+    ],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 22,
+    "question": "El campo magnético de la Tierra:",
+    "options": [
+      "a) Todas son ciertas",
+      "b) Permite la orientación de multitud de seres vivos",
+      "c) Nos protege de los vientos solares"
+    ],
+    "correctIndex": 0,
+    "weight": 1
+  },
+  {
+    "id": 23,
+    "question": "En cuanto a la masa y el peso:",
+    "options": [
+      "a) La masa es igual al peso",
+      "b) La masa es el peso por la gravedad",
+      "c) El peso es la masa por la gravedad"
+    ],
+    "correctIndex": 2,
+    "weight": 1
+  },
+  {
+    "id": 24,
+    "question": "Las cordilleras montañosas se forman:",
+    "options": [
+      "a) En las fallas transformantes",
+      "b) En las zonas de colisión entre placas",
+      "c) En las dorsales oceánicas"
+    ],
+    "correctIndex": 1,
+    "weight": 1
+  }
+]
